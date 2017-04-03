@@ -1,0 +1,16 @@
+{
+  "name": "eventlist",
+  "version": "1.0.0",
+  "description": "Testing vue.js as an event creator for a list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Events",
+    "List",
+    "Vue.js"
+  ],
+  "author": "Tanmay Bhide",
+  "license": "MIT"
+}
